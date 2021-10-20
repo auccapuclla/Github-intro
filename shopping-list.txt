@@ -5,3 +5,5 @@ banana
 strawberry
 orange
 watermelon
+banana 2
+apple 2
